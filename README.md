@@ -1,7 +1,8 @@
 # Project-Shakti
 # 🚨 Project Shakti - Women's Safety Platform
 
-**Project Shakti** is a mission-driven web platform aimed at ensuring **24x7 safety for women**. It features a clean, easy-to-use interface and refined functionality to respond in critical situations quickly and reliably.
+**Project Shakti** is a mission-driven web platform aimed at ensuring **24x7 safety for women**. It features a clean, 
+easy-to-use interface and refined functionality to respond in critical situations quickly and reliably.
 
 ---
 
